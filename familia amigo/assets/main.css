@@ -1,0 +1,315 @@
+.div1 {
+    height: 50vh;
+    width: 100vw;
+    display: flex;
+    gap: 5px;
+}
+
+.div11 {
+    height: 100%;
+    width: 10%;
+    box-shadow: 0PX 0px 10px white;
+    border: 4px solid rgb(35, 24, 246);
+    border-radius: 20%;
+    transition: 1.25s;
+
+}
+
+.div1 img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    transition: all ease-out 1s;
+    border-radius: 20%;
+}
+
+.abrido img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    transition: all ease-out 1s;
+    border-radius: 20%;
+}
+
+.footer {
+    height: 100vh;
+    width: 200vw;
+    border:  solid whitesmoke;
+}
+
+.div2 {
+    height: 100%;
+    width: 10%;
+    box-shadow: 0PX 0px 10px white;
+    border: 4px solid white;
+    border-radius: 20%;
+    transition: 1.25s;
+}
+.div2:hover {
+     width: 20%;
+ 
+}
+
+.div3:hover {
+     width: 20%;
+
+}.div4:hover {
+     width: 20%;
+
+}.div5:hover {
+     width: 20%;
+
+}.div6:hover {
+     width: 20%;
+
+}.div7:hover {
+     width: 20%;
+
+}.div8:hover {
+     width: 20%;
+
+}.div9:hover {
+     width: 20%;
+
+}.div10:hover {
+     width: 20%;
+
+}
+.div3 {
+    height: 100%;
+    width: 10%;
+    box-shadow: 0px 0px 10px purple;
+    border: 4px solid purple;
+    border-radius: 20%; 
+    transition: 1.25s;
+}
+
+.div4 {
+    height: 100%;
+    width: 10%;
+    box-shadow: 0px 0px 10px lawngreen;
+    border: 4px solid lawngreen;
+    border-radius: 20%; 
+    transition: 1.25s;
+
+}
+
+.div5 {
+    height: 100%;
+    width: 10%;
+    box-shadow: 0px 0px 10px;
+    border: 4px solid red;
+    border-radius: 20%;
+     transition: 1.25s;
+}
+
+.div6 {
+    height: 100%;
+    width: 10%;
+    box-shadow: 0px 0px 10px ghostwhite;
+    border: 4px solid ghostwhite;
+    border-radius: 20%; 
+    transition: 1.25s;
+}
+
+.div7 {
+    height: 100%;
+    width: 10%;
+    box-shadow: 0px 0px 10px;
+    border: 4px solid green;
+    border-radius: 20%; 
+    transition: 1.25s;
+}
+
+.div9 {
+    height: 100%; 
+    transition: 1.25s;
+    width: 10%;
+    box-shadow: 0px 0px 10px;
+    border: 4px solid blue;
+    border-radius: 20%;
+}
+
+.div10 {
+    height: 100%; 
+    transition: 1.25s;
+    width: 10%;
+    box-shadow: 0px 0px 10px;
+    border: 4px solid navy;
+    border-radius: 20%;
+}
+
+body {
+    background-color: black;
+}
+
+.vid {
+    opacity: 0;
+    transition: 1s;
+}
+
+.vid:hover {
+    opacity: 1;
+}
+
+.demonslayer {
+    display: flex;
+}
+
+.Adventuretime img {
+
+    width: 50vw;
+    height: 50vh;
+
+}
+
+.Adventuretime .magoverde {
+    box-shadow: 0px 0px 10px;
+    border: 4px solid green;
+}
+
+.Adventuretime .bebe {
+    box-shadow: 0px 0px 10px;
+    border: 4px solid red;
+}
+
+.Adventuretime .pinguim {
+    box-shadow: 0px 0px 10px;
+    border: 4px solid yellow;
+
+}
+
+.Adventuretime .gelado {
+    box-shadow: 0px 0px 10px;
+    border: 4px solid rgb(8, 167, 224);
+}
+
+.Adventuretime h1 {
+    width: 12vw;
+    border: 3px solid lightblue;
+    box-shadow: 0px 0px 10px;
+}
+
+.demonslayer img {
+    width: 50vw;
+    height: 50vh;
+    box-shadow: 0px 0px 10px blueviolet;
+    border: 3px solid blueviolet;
+}
+
+.demonslayer h1 {
+    width: 12vw;
+    border: 3px solid rgb(184, 14, 14);
+    box-shadow: 0px 0px 10px;
+}
+
+.demonslayer .titulo {
+    height: 15vh;
+}
+
+.demonslayer .medroso {
+    height: 5vh;
+}
+
+.kungfupanda img {
+    width: 50vw;
+    height: 50vh;
+
+}
+
+.kungfupanda .titulopanda {
+    width: 15vw;
+}
+
+.kungfupanda h1 {
+    width: 12vw;
+    border: 3px solid lawngreen;
+    box-shadow: 0px 0px 10px;
+}
+
+.kungfupanda .t1 {
+    border-color: rgb(42, 0, 251);
+}
+
+.kungfupanda .t2 {
+    border-color: rgb(184, 14, 14);
+}
+
+.kungfupanda .t3 {
+    border-color: rgb(68, 240, 3);
+}
+
+.kungfupanda .gatinho {
+    box-shadow: 0px 0px 10px;
+    border: 4px solid rgb(42, 0, 251);
+
+}
+
+.kungfupanda .pavao {
+    box-shadow: 0px 0px 10px;
+    border: 4px solid rgb(184, 14, 14);
+
+}
+
+.kungfupanda .boi {
+    box-shadow: 0px 0px 10px;
+    border: 4px solid rgb(68, 240, 3);
+
+}
+
+.pussinboots img {
+    width: 50vw;
+    height: 50vh;
+    box-shadow: 0px 0px 10px;
+    border: 4px solid rgb(224, 60, 88);
+}
+
+.pussinboots h1 {
+    width: 12vw;
+    border: 3px solid orangered;
+    box-shadow: 0px 0px 10px;
+}
+
+.devil img {
+    width: 50vw;
+    height: 50vh;
+    box-shadow: 0px 0px 10px;
+    border: 4px solid black;
+}
+
+.devil h1 {
+    width: 12vw;
+    border: 3px solid rgb(190, 6, 6);
+    box-shadow: 0px 0px 10px;
+}
+
+.nascimento img {
+    width: 50vw;
+    height: 50vh;
+    opacity: 0;
+
+}
+
+.nascimento img:hover {
+    opacity: 1;
+    transition: 1.25s;
+}
+
+.moedinha {
+    width: 100vw;
+    height: 10vh;
+}
+
+button {
+    width: 5vw;
+    height: 5vw;
+    box-shadow: 0px 0px 10px yellow;
+    background-color: yellow;
+    border: 1px solid rgb(85, 0, 255);
+    display: flex;
+
+}
+
+body {
+    color: white;
+}
